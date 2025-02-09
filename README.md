@@ -51,3 +51,8 @@ The Face Recognition Attendance System is an advanced, automated solution design
 
 **9. Conclusion:**
 The Face Recognition Attendance System provides a seamless, efficient, and secure way to manage attendance using cutting-edge facial recognition technology. With its integration into MySQL and a user-friendly interface, it is a robust and reliable solution for institutions and organizations.
+
+
+# Project Screenshots / Graphical User Interface (GUI)
+
+![attendance](https://github.com/xpatilakshay/Face-Attendance-System/blob/cc9013e83076c96a3b96a9037c9a68406db1484a/Face%20Attendance%20System/Face%20Attendance%20System%20Screenshots/1.jpeg)
