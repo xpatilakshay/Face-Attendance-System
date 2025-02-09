@@ -56,3 +56,4 @@ The Face Recognition Attendance System provides a seamless, efficient, and secur
 # Project Screenshots / Graphical User Interface (GUI)
 
 ![attendance](https://github.com/xpatilakshay/Face-Attendance-System/blob/cc9013e83076c96a3b96a9037c9a68406db1484a/Face%20Attendance%20System/Face%20Attendance%20System%20Screenshots/1.jpeg)
+![attendance](https://github.com/xpatilakshay/Face-Attendance-System/blob/00c60dbe4d33bf0de78d54708ea815bf031c8d4e/Face%20Attendance%20System/Face%20Attendance%20System%20Screenshots/2.jpeg)
