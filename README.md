@@ -55,9 +55,9 @@ The Face Recognition Attendance System provides a seamless, efficient, and secur
 
 # working
 
-**Press i :** insert new student and Enter student data in console.
-**press e :** To record Attendance to excel file i.e, xlsx file.
-**press q :** to quite
+**- Press i :** insert new student and Enter student data in console.
+**- press e :** To record Attendance to excel file i.e, xlsx file.
+**- press q :** to quite
 
 # Project Screenshots / Graphical User Interface (GUI)
 
