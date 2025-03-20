@@ -1,11 +1,4 @@
 
-Press i : insert new student and Enter student data in console.
-press e : To record Attendance to excel file i.e, xlsx file.
-press q : to quite
-
-
-
-
 # Face-Attendance-System
 An automated attendance system using real-time face recognition with Python, OpenCV, and MySQL. It securely captures and matches facial features to mark attendance. Features include a user-friendly GUI, real-time logging, and data export. Ideal for institutions and organizations seeking efficient attendance tracking.
 
@@ -60,6 +53,11 @@ The Face Recognition Attendance System is an advanced, automated solution design
 **9. Conclusion:**
 The Face Recognition Attendance System provides a seamless, efficient, and secure way to manage attendance using cutting-edge facial recognition technology. With its integration into MySQL and a user-friendly interface, it is a robust and reliable solution for institutions and organizations.
 
+#working
+
+**Press i :** insert new student and Enter student data in console.
+**press e :** To record Attendance to excel file i.e, xlsx file.
+**press q :** to quite
 
 # Project Screenshots / Graphical User Interface (GUI)
 
