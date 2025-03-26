@@ -9,6 +9,7 @@ from db_config import connect_db
 from PIL import Image
 import pandas as pd
 
+
 # Database Connection
 conn = connect_db()
 if conn is None:
